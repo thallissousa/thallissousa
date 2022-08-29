@@ -22,7 +22,7 @@
    <a href="https://t.me/thallissousa" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   
  ##
- ### Download my first app at AppStore!
+ ### Download one of my apps at AppStore!
 <a href="https://apps.apple.com/br/app/sperifa/id1579177301?l=en" target="_blank"> <br/>
   <img src="https://raw.githubusercontent.com/gist/thallissousa/2f6f87e1d8e28c762fe40ba227e5591b/raw/1570d3b5c21207c97c88497bf92f26173febaba1/sperifaapp.svg" 
 alt="Download na App Store" width="60" height="60"/></a> 
