@@ -10,8 +10,8 @@
 </div>
 <!-- I work with... -->
   <div style="display: inline_block"><br>
-  <img align="center" alt="Thallis-Swift" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg">
-     <img align="center" alt="Thallis-Figma" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg">
+  <img align="center" alt="Thallis-Swift" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+     <img align="center" alt="Thallis-Figma" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   </div>
   
   ##
