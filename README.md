@@ -1,6 +1,6 @@
 ### Hello, I'm Thallis! 👋
 <!-- What I'm working with -->
-- I'm currently working with iOS development at Apple Developer Academy | Mackenzie. 
+- I'm currently working with iOS development at Instituto de Pesquisas Eldorado. 
 
 <div>
   <!-- Theme of progressos -->
